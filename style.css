@@ -1,0 +1,21 @@
+#apps{
+    background-color: #b9f7a6;
+    text-align: center;
+    padding: 20px;
+}
+h1{
+    font-size: 45px;
+    color:white;
+    background-color: #9de8ed;
+}
+#chatbots{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 20px;
+    
+}
+#games{
+    background-color:cornflowerblue;
+    text-align: center;
+    padding: 20px;
+}
